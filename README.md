@@ -1,5 +1,5 @@
 # Poker-Spin-Go-Basic-Stats-Pack
-Custom stats I created for Spin-Go analysis in Poker Tracker4 (postgreSQL)
+Custom stats I created for Spin-Go analysis in Poker Tracker4 (postgreSQL) to segment hands played by position and number of players. Used for high level surface overviews of performance in each section of the tree.
 
 # Stats:
 
