@@ -1,4 +1,4 @@
-# Poker-Spin-Go-Stats-Pack
+# Poker-Spin-Go-Basic-Stats-Pack
 Custom stats I created for Spin-Go analysis in Poker Tracker4 (postgreSQL)
 
 # Stats:
