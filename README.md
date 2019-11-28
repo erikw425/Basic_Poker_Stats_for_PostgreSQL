@@ -57,3 +57,5 @@ sum(if[tourney_hand_summary.cnt_players=2 and tourney_hand_player_statistics.pos
 <b>BTN_3H_EV -- Calculates expected amount of chips won from the button for three handed play</b>
 
 sum(if[tourney_hand_summary.cnt_players=3 and tourney_hand_player_statistics.position=0, tourney_hand_player_statistics.amt_expected_won, 0])
+
+ 
